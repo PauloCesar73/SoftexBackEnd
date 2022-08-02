@@ -1,0 +1,18 @@
+Site1 "https://www.youtube.com/"
+
+Aba de pesquisa do YouTube,  carousel(Utilizado abaixo da aba de pesquisa).
+
+Carousel:
+O carousel é localizado abaixo da aba de pesquisa do youtube, foi feito para interação 
+com o usuário concequentemente utilizando JS, com a finalidade parecida com o da aba
+de pesquisa, procurar algo que intereça ao usuário.
+
+Site2 "https://www.twitch.tv/"
+
+Controles do player, botão de pesquisa.
+
+Controles do player:
+É utilizado no momento que está assistindo a stream, para modificar da forma que você deseja
+ou só apenas pausar a transmissão entre outras funcionalidades.
+
+

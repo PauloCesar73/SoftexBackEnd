@@ -1,6 +1,6 @@
 Padrões de projetos.
 
-Module pattern
+Module pattern.
 
 Este padrão de projeto é muito utilizado para projetos grandes pois precisam ser organizados em unidades coesas
 para manter a organização, sendo assim esse padrão é a mais aceitável para isso.

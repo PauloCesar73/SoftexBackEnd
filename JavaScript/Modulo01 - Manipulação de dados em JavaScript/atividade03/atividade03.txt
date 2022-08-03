@@ -1,0 +1,37 @@
+Dados no cotidiano.
+
+Notbook-Dados:
+Cor preto.
+Marca Acer.
+Memoria 4gb Ram.
+
+Celular-Dados:
+Cor prata.
+Marca Moto-g.
+Memoria 3gb Ram.
+
+Chinelo-Dados:
+Cor azul.
+Marca havaianas.
+Tamanho 39-40.
+
+Dados na Internet.
+
+Criação de perfil em site-Dados:
+Nome.
+E-mail.
+Idade.
+
+Conta bancaria pela internet-Dados:
+Cpf.
+Rg.
+Endereço.
+
+Site de vendas-Dados:
+Tipo de produto.
+Preços.
+Marcas.
+
+
+
+

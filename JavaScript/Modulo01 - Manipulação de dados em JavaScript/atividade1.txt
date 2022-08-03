@@ -1,4 +1,4 @@
-Site1 "https://www.youtube.com/"
+Site1 "https://www.youtube.com/".
 
 Aba de pesquisa do YouTube,  carousel(Utilizado abaixo da aba de pesquisa).
 
@@ -7,7 +7,7 @@ O carousel é localizado abaixo da aba de pesquisa do youtube, foi feito para in
 com o usuário concequentemente utilizando JS, com a finalidade parecida com o da aba
 de pesquisa, procurar algo que intereça ao usuário.
 
-Site2 "https://www.twitch.tv/"
+Site2 "https://www.twitch.tv/".
 
 Controles do player, botão de pesquisa.
 

@@ -1,0 +1,20 @@
+Padrões de projetos.
+
+Module pattern
+
+Este padrão de projeto é muito utilizado para projetos grandes pois precisam ser organizados em unidades coesas
+para manter a organização, sendo assim esse padrão é a mais aceitável para isso.
+
+O module pattern usa o conceito de object literals para organizar o código e, dessa forma, usando 
+closures (funções encadeadas) é possível criar o encapsulamento de propriedades e métodos.
+
+Vantagens: 
+
+Como diz acima ele tem muitas vantagens para ser utilizado em projetos grandes, melhoroando sua organização.
+
+Desvantagens:
+
+É um pouco desgastante mudar a privacidade de um objeto.
+Não é possível realizar testes unitários em objetos privados.
+
+

@@ -1,0 +1,17 @@
+Normalização de banco de dados(formas normais)
+
+Primeira forma normal
+
+Uma relação estará na primeira forma normal 1FN, se não houver grupo de dados repetidos, isto é, se todos os valores forem únicos.
+Em outras palavras podemos definir que a primeira forma normal não admite repetições ou campos que tenha mais que um valor.
+
+Segunda forma normal
+
+Uma tabela está na Segunda Forma Normal 2FN se ela estiver na 1FN e todos os atributos não chave forem totalmente dependentes
+da chave primária (dependente de toda a chave e não apenas de parte dela).
+Se o nome do produto já existe na tabela produtos, então não é necessário que ele exista na tabela de produtos. 
+A segunda forma normal trata destas anomalias e evita que valores fiquem em redundância no banco de dados.
+
+Terceira forma normal
+Uma tabela está na Terceira Forma Normal 3FN se ela estiver na 2FN e se nenhuma coluna não-chave depender de outra coluna não-chave.
+Na terceira forma normal temos de eliminar aqueles campos que podem ser obtidos pela equação de outros campos da mesma tabela.

@@ -1,0 +1,31 @@
+Defina: dados, banco de dados, modelo de dados, metadados e catálogo de dados.
+
+Dados
+
+os dados são uma coleção de valores discretos que transmitem informações, descrevendo quantidade,
+qualidade, fatos, estatísticas, outras unidades básicas de significado, ou simplesmente sequências 
+de símbolos que podem ser posteriormente interpretados.
+
+Banco de dados
+
+Bancos de dados ou bases de dados são conjuntos de arquivos relacionados entre si, com registros sobre pessoas, 
+lugares ou informações em geral. São coleções organizadas de dados que se relacionam de forma a criar algum sentido e dar 
+mais eficiência durante uma pesquisa.
+
+Modelo de dados
+
+Um modelo de banco de dados mostra a estrutura lógica de um banco de dados, incluindo as relações e restrições que determinam 
+como os dados podem ser armazenados e acessados. Modelos de banco de dados individuais são projetados com base nas regras e nos
+conceitos do modelo de dados mais abrangente que os designers adotam.
+
+Metadados
+
+Metadados são dados sobre outros dados. Um item de um metadado pode dizer do que se trata aquele dado, 
+geralmente uma informação inteligível por um computador. Os metadados facilitam o entendimento dos relacionamentos
+e a utilidade das informações dos dados.
+
+Catalogo de dados
+
+catálogo de dados é um inventário organizado de ativos de dados na organização. Ele usa metadados para ajudar as organizações
+a gerenciarem seus dados. Também ajuda os profissionais de dados a coletar, organizar, acessar e enriquecer metadados para oferecer
+suporte à descoberta e governança de dados.

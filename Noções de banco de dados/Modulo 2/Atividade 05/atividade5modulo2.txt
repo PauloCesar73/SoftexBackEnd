@@ -1,1 +1,6 @@
-.
+Os principais SGBDs relacionais:
+- MySQL, Oracle, SQL Server, PostgreSQL.
+
+
+Exemplos de SGBDs não relacionais:
+Documentos, grafos, pares chave-valor e colunas.
